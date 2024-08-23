@@ -1,10 +1,4 @@
-# [MERN Social Media App]
 
-![image](https://github.com/Aman1143/INSTA_CLONE/blob/main/client/src/image/pic1.png?raw=true)
-- **chating**
-![image](https://github.com/Aman1143/INSTA_CLONE/blob/main/client/src/image/pic2.png?raw=true)
-- **Video chating**
-![image](https://github.com/Aman1143/INSTA_CLONE/blob/main/client/src/image/video.png?raw=true)
 
 ## Description
 
@@ -21,7 +15,7 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) social app that allows u
 
 To run this app on your local machine, follow these steps:
 
-1. Clone the repository: clone this repo by `git clone https://github.com/Aman1143/Snaply.git`
+1. Clone the repository: clone this repo by `git clone https://github.com/hk-256/Snaply.git`
 
 
 2. Navigate to the project directory: Navigate to client folder to run client side code.
